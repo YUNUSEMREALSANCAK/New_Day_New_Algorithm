@@ -1,0 +1,110 @@
+🔍 1. Arama ve Sıralama Algoritmaları (Searching & Sorting Algorithms)
+Arama:
+Linear Search (Doğrusal Arama)
+
+Binary Search (İkili Arama)
+
+Jump Search
+
+Interpolation Search
+
+Exponential Search
+
+Sıralama:
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+🌐 2. Graf Algoritmaları (Graph Algorithms)
+Breadth-First Search (BFS)
+
+Depth-First Search (DFS)
+
+Dijkstra’s Algorithm
+
+Kruskal’s Algorithm
+
+Prim’s Algorithm
+
+⚙️ 3. Dinamik Programlama (Dynamic Programming) Algoritmaları
+Fibonacci Number (Memoization & Tabulation)
+
+Longest Common Subsequence (LCS)
+
+0/1 Knapsack Problem
+
+Edit Distance (Levenshtein Distance)
+
+Matrix Chain Multiplication
+
+🤖 4. Yapay Zeka ve Makine Öğrenmesi Algoritmaları
+Linear Regression
+
+Logistic Regression
+
+Decision Tree
+
+K-Nearest Neighbors (KNN)
+
+Support Vector Machine (SVM)
+
+🔐 5. Kriptografi Algoritmaları (Cryptographic Algorithms)
+Caesar Cipher
+
+RSA (Rivest-Shamir-Adleman)
+
+AES (Advanced Encryption Standard)
+
+Diffie-Hellman Key Exchange
+
+SHA-256 (Hashing Algorithm)
+
+➗ 6. Matematiksel ve Sayısal Algoritmalar (Mathematical Algorithms)
+Euclidean Algorithm (GCD - EBOB)
+
+Sieve of Eratosthenes (Asal sayı bulma)
+
+Modular Exponentiation
+
+Fast Fourier Transform (FFT)
+
+Newton-Raphson Method (Kök bulma)
+
+🧵 7. Metin İşleme Algoritmaları (String Algorithms)
+Naive Pattern Matching
+
+KMP Algorithm (Knuth-Morris-Pratt)
+
+Rabin-Karp Algorithm
+
+Z-Algorithm
+
+Trie (Prefix Tree)
+
+📦 8. Ayırma ve Kümeleme Algoritmaları (Clustering & Partitioning Algorithms)
+K-Means Clustering
+
+DBSCAN (Density-Based Clustering)
+
+Hierarchical Clustering
+
+Spectral Clustering
+
+Mean Shift Clustering
+
+📈 9. Optimizasyon Algoritmaları
+Greedy Algorithm
+
+Genetic Algorithm
+
+Simulated Annealing
+
+Gradient Descent
+
+Branch and Bound
